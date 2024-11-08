@@ -39,8 +39,10 @@ Welcome to my personal website repository! This project is a reflection of my jo
 ## 📸 Screenshots
 
 ![Loading Screen](https://your-image-link.com/homepage.png)
-![Homepage](https://ibb.co/1GFKhvk)
+![Homepage](https://github.com/user-attachments/assets/b73c3c44-1f9b-400b-a135-51fe703b7afa)
 ![About Page](https://your-image-link.com/homepage.png)
+![](https://your-image-link.com/homepage.png)
+![](https://your-image-link.com/homepage.png)
 
 ---
 
