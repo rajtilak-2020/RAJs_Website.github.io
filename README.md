@@ -38,14 +38,18 @@ Welcome to my personal website repository! This project is a reflection of my jo
 
 ## 📸 Screenshots
 
+**Loading Screen⏳**
+--
 ![Loading Screen](https://github.com/user-attachments/assets/07f41830-1e2b-4339-aa3b-92ad37f5a8f9)
+--
+**Homepage🏠**
 ![Homepage](https://github.com/user-attachments/assets/b73c3c44-1f9b-400b-a135-51fe703b7afa)
-![About Page](https://your-image-link.com/homepage.png)
-![About Page](https://your-image-link.com/homepage.png)
-![About Page](https://your-image-link.com/homepage.png)
-
----
-
+--
+**About Page ℹ**
+![About Page](https://github.com/user-attachments/assets/ea7b02fd-d269-4bcc-84b2-08745d860054)
+![About Page](https://github.com/user-attachments/assets/cf70ba4b-d838-4690-9d34-300beb8f013b)
+![About Page](https://github.com/user-attachments/assets/503cec94-076a-4c18-8153-a5c6d48e1c3d)
+-
 ---
 
 ## 📈 Future Plans
