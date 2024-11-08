@@ -38,11 +38,11 @@ Welcome to my personal website repository! This project is a reflection of my jo
 
 ## 📸 Screenshots
 
-![Loading Screen](https://your-image-link.com/homepage.png)
+![Loading Screen](https://github.com/user-attachments/assets/07f41830-1e2b-4339-aa3b-92ad37f5a8f9)
 ![Homepage](https://github.com/user-attachments/assets/b73c3c44-1f9b-400b-a135-51fe703b7afa)
 ![About Page](https://your-image-link.com/homepage.png)
-![](https://your-image-link.com/homepage.png)
-![](https://your-image-link.com/homepage.png)
+![About Page](https://your-image-link.com/homepage.png)
+![About Page](https://your-image-link.com/homepage.png)
 
 ---
 
